@@ -1,0 +1,23 @@
+.menu{
+	width: 300px;
+	height: 80px;
+	background-color: transparent;
+	border-radius: 5%;
+	margin-top: 200px;
+	box-shadow: 5px 5px 10px black;
+	transition-property: height, margin-top, background-image;
+}	
+
+.menu:hover{
+	height: 200px;
+	margin-top: 150px;
+	background-image: url('menu.png');
+}
+
+.bluck{
+	display: block;
+}
+
+.menu:hover .bluck {
+	display: none;
+}
