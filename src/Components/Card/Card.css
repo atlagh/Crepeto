@@ -1,0 +1,17 @@
+.form{
+	height: 340px;
+	width: 300px;
+	background-color: transparent;
+	border-radius: 5%;
+	margin-top: 60px;
+	box-shadow: 5px 5px 10px black;
+}
+.black{
+	color: black;
+}	
+
+.main-container {
+      float: left;
+      position: relative;
+      left: 40%;
+}
