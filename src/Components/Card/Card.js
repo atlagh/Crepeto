@@ -7,7 +7,7 @@ const Card = () =>{
 
 		<div className= "form main-container grow">
 			<form>
-				<h1 className="center">Sign In</h1>
+				<h1 className="center size">Sign In</h1>
 				<div className="block">
 					<div className="center">Phone Number: </div>
 					<input className=" center grow pa1 mt2 bg-transparent" id="phone-number" name="phone-number" type="phone"/>

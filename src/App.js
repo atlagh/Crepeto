@@ -6,6 +6,7 @@ import Menu from './Components/Menu/Menu';
 import Register from './Components/Register/Register';
 import './App.css';
 
+
 function App() {
   return (
     <div>

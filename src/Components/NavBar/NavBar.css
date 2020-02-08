@@ -1,6 +1,13 @@
-.nothing{
+.logo{
 	background-color: transparent;
-	height: 50px;
-	width: 100%;
-	padding-top: 12px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;	
+	border-bottom: 1px solid lightgrey;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.marg{
+	margin-left: 20px;
 }

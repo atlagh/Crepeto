@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Rouge+Script|Seaweed+Script&display=swap');
 
 body {
   margin: 0;
@@ -14,4 +14,9 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1{
+ font-family: 'Rouge Script', cursive;
+ text-shadow: 10px 10px 10px black;
 }

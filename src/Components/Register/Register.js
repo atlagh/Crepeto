@@ -5,7 +5,7 @@ const Register =() => {
 	return(
 		<div className= "forme main-container grow">
 			<form>
-				<h1 className="center">Register</h1>
+				<h1 className="center siz">Register</h1>
 				<div className="blick">
 					<div className="center">Phone Number: </div>
 					<input className=" center grow pa1 mt2 bg-transparent" id="phone-number" name="phone-number" type="phone"/>
