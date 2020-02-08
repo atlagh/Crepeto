@@ -12,8 +12,8 @@ const NavBar = () =>{
 			<nav>
 				<div className="center">
 					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3 marg" type="submit" value="Order"/>
-					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3 marg" type="submit" value="Contact us"/>
-					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3 marg" type="submit" value="About us"/>
+					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3 marg" type="submit" value="Contact"/>
+					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3 marg" type="submit" value="About"/>
 				</div>
 			</nav>
 		</header>

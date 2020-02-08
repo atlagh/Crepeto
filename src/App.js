@@ -16,7 +16,6 @@ function App() {
 	      <Card />
 	      <Register />
 	  </div>
-      <MyMap />
     </div>
   );
 }

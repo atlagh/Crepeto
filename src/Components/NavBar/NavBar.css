@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Rouge+Script|Seaweed+Script&display=swap');
+
 .logo{
 	background-color: transparent;
 	display: flex;
@@ -11,3 +13,5 @@
 .marg{
 	margin-left: 20px;
 }
+
+
