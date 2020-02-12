@@ -33,5 +33,7 @@
 
 .siz{
 	font-weight: 900;
-	font-size: 50px
+	font-size: 50px;
+	font-family: 'Rouge Script', cursive;
+ 	text-shadow: 10px 10px 10px black;
 }

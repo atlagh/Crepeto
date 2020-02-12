@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Rouge+Script|Seaweed+Script&display=swap');
 
-.form{
+.menu{
 	height: 140px;
 	width: 200px;
 	background-color: transparent;
@@ -8,28 +8,26 @@
 	margin-top: 160px;
 	box-shadow: 5px 5px 10px black;
 	transition-property: height, width, border-radius, margin-top;
-	transition-duration: 5s;
-}
-
-.form:hover{
-	margin-top: 80px;
-	height: 380px;
-	width: 300px;
-	border-radius: 5%
-}
-.black{
-	color: black;
+	transition-duration: 1s;
 }	
 
-.block{
-	display: none;
+.menu:hover{
+	margin-top: 110px;
+	height: 200px;
+	width: 300px;
+	border-radius: 5%;
+	background-image: url('menu.png');
 }
 
-.form:hover .block {
+.bluck{
 	display: block;
 }
 
-.size{
+.menu:hover .bluck {
+	display: none;
+}
+
+.sizez{
 	font-weight: 900;
 	font-size: 50px;
 	font-family: 'Rouge Script', cursive;
