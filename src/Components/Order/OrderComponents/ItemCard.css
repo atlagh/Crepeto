@@ -1,0 +1,12 @@
+.cardWrapper{
+	margin-left: 5px;
+	margin-top: 5px;
+	width: 150px;
+	height: 200px;
+	border: 1px solid red;
+}
+
+.imageWrapper{
+	border-radius: 5%;
+	padding-top: 10px;
+}

@@ -14,7 +14,7 @@ const Card = () =>{
 					<div className="mt2 center">Password: </div>
 					<input className="grow pa1 mt2 bg-transparent center" id="phone-number" name="phone-number" type="phone"/>
 					<div className="center mt3">
-					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3" type="submit" value="Sign in"/>
+					<input className="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3" type="submit" value="Sign in"/>
 					</div>
 					<div className="center mt3">
 						<a className="black grow" href="">Forgot your password?</a>

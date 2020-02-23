@@ -4,8 +4,8 @@ import './Menu.css';
 
 const Menu = () => {
 	return (
-		<div className="amine">
-			<img src={require('./MyMenu.jpeg')} alt='' width='' height='1000' />
+		<div className="waffles">
+			<img  src={require('./MyMenu.jpeg')} alt='' width='' height='1000' />
 		</div>
 	)
 }

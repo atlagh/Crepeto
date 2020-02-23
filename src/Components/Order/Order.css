@@ -1,7 +1,37 @@
-.choice1{
-	width: 400px;
-	height: 400px;
+.wrapper{
+	padding-top: 170px;
+}
+
+.wrapper2{
+	display: block;
+	width: 60%;
+	height: 450px;
 	background: white;
 	margin: auto;
-	margin-top: 50px;
+	border-radius: 5%;
+	padding-top: 10px;
+}
+
+.choice1{
+	min-height: 0px;
+	margin-bottom: 10px;
+	border: 1px solid red;
+}
+
+.choice2{
+	height: 30px;
+	border: 1px solid red;
+}
+
+.choice3{
+	max-height: 350px;
+	height: 350px;
+	margin-top: 10px;
+	border: 1px solid red;
+}
+
+@media (max-width: 700px){
+	.wrapper2{
+		width: 90%;
+	}
 }

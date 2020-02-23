@@ -5,14 +5,14 @@
 	width: 200px;
 	background-color: transparent;
 	border-radius: 50%;
-	margin-top: 160px;
+	margin-top: 260px;
 	box-shadow: 5px 5px 10px black;
 	transition-property: height, width, border-radius, margin-top;
 	transition-duration: 5s;
 }
 
 .form:hover{
-	margin-top: 80px;
+	margin-top: 180px;
 	height: 380px;
 	width: 300px;
 	border-radius: 5%
@@ -34,4 +34,18 @@
 	font-size: 50px;
 	font-family: 'Rouge Script', cursive;
  	text-shadow: 10px 10px 10px black;
+}
+
+@media (max-width: 700px) {
+	.form{
+		width: 70%;
+		margin-top: 20px;
+	}
+	.form:hover{
+		margin-top: 20px;
+		height: 380px;
+		width: 70%;
+		border-radius: 5%;
+
+	}
 }

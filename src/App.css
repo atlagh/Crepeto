@@ -40,5 +40,12 @@
 
 .unit{
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-around;
+}
+
+@media (max-width: 700px) {
+  .unit{
+      }
+
 }

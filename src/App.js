@@ -16,7 +16,7 @@ class App extends Component{
     this.state = {
       route: 'order',
     }
-  }
+}
 
 
 
@@ -33,7 +33,7 @@ class App extends Component{
             <Register />
           </div>
         : this.state.route === 'contact' ?
-          <Contact />
+          <Contact  />
         : this.state.route === 'about' ? 
           <About />
         : this.state.route === 'order' ?

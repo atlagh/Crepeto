@@ -1,14 +1,18 @@
 
 .mgs{
 	margin-left: 100px;
+	padding-top: 130px;
 }
 
 .mgb{
 	margin-bottom: 20px;
 }
+.pad1{
+	padding-right: 20px;
+}
 
 .fc1 {
-	color: white;
+	color: black;
 }
 
 .fs1 {
@@ -16,4 +20,15 @@
 }
 .fs2{
 	font-size: 20px;
+}
+
+@media (max-width: 700px) {
+	.mgs{
+		margin-left: 20px;
+		padding-top: 170px;
+	}
+
+	
+
+	
 }

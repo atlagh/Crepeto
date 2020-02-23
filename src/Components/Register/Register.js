@@ -16,7 +16,7 @@ const Register =() => {
 					<div className="mt2 center">Confirm Password: </div>
 					<input className="grow pa1 mt2 bg-transparent center" id="phone-number" name="phone-number" type="phone"/>
 					<div className="center mt3">
-					<input class="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3" type="submit" value="Register"/>
+					<input className="b ph3 pv2 input-reset ba b--black bg-transparent grow pointer f6 dib br3" type="submit" value="Register"/>
 					</div>
 				</div>
 			</form>
