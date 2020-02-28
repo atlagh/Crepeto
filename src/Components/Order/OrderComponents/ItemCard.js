@@ -2,16 +2,15 @@ import React from 'react';
 import './ItemCard.css';
  
 
-const ItemCard = ({name}) => {
-	
+const ItemCard = ({name, clickChange}) => {
 	return(
-		<div className="cardWrapper grow pointer">
-			<img src={require(`${name[0].src}`)} alt="img" width="120" height="130" className="imageWrapper tc"/>
-			<div className="tc ps2">
-		        <p>{name[0].name}</p>
-		        <p>{name[0].price}</p>
-		    </div>
-	    </div>
+			<button className="cardWrapper grow pointer dib br3 ma2" onClick={() => clickChange(`${name.name}`)} value={name.name}>
+				<img src={require(`${name.src}`)} alt="img" width="120" height="130" className="imageWrapper"/>
+				<div className="contentWrapper" >
+			        <p>{name.price}</p>
+			        <p>{name.name}</p>
+			    </div>
+		    </button>
 	)
 }
 

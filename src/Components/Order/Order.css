@@ -1,37 +1,38 @@
 .wrapper{
-	padding-top: 170px;
+	padding-top: 120px;
 }
 
 .wrapper2{
 	display: block;
-	width: 60%;
-	height: 450px;
-	background: white;
+	background: transparent;
 	margin: auto;
-	border-radius: 5%;
 	padding-top: 10px;
+	padding-bottom: 30px;
 }
 
 .choice1{
 	min-height: 0px;
 	margin-bottom: 10px;
-	border: 1px solid red;
 }
 
 .choice2{
-	height: 30px;
-	border: 1px solid red;
+	min-height: 30px;
 }
 
 .choice3{
-	max-height: 350px;
-	height: 350px;
+	min-height: 300px;
 	margin-top: 10px;
-	border: 1px solid red;
+}
+
+.flx{
+	display: flex;
 }
 
 @media (max-width: 700px){
 	.wrapper2{
 		width: 90%;
+	}
+	.wrapper{
+		padding-top: 170px;
 	}
 }

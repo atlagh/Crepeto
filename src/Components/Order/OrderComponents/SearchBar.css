@@ -1,0 +1,10 @@
+.searchBox{
+	width: 400px;
+	height: 35px;
+}
+
+@media (max-width: 700px){
+	.searchBox{
+		width: 90%;
+	}
+}

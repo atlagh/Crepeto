@@ -1,48 +1,48 @@
 export const Items = [
 
 	{
-		src: './tfou.png',
+		src: './plain.png',
 		name: 'plane waffle',
 		price: '35 dhs',
 	},
 	{
-		src: 'empty for now',
-		name: 'bro bro',
+		src: './ice.png',
+		name: 'Ice Cream',
 		price: '35 dhs',
 	},
 	{
-		src: 'empty for now',
-		name: 'plane waffle',
+		src: './peanut.png',
+		name: 'Peanut Butter ',
 		price: '35 dhs',
 	},
 	{
-		src: 'empty for now',
-		name: 'plane waffle',
+		src: './strawberry.png',
+		name: 'Strawberry ',
 		price: '35 dhs',
 	},
 	{
-		src: 'empty for now',
-		name: 'plane waffle',
+		src: './chocolat.png',
+		name: 'Chocolat Fondue',
+		price: '65 dhs',
+	},
+	{
+		src: './caramelized.png',
+		name: 'Caramelized ',
+		price: '65 dhs',
+	},
+	{
+		src: './ultimate.png',
+		name: 'The Ultimate',
 		price: '35 dhs',
 	},
 	{
-		src: 'empty for now',
-		name: 'plane waffle',
+		src: './cocoa.png',
+		name: 'Cocoa Toffee',
 		price: '35 dhs',
 	},
 	{
-		src: 'empty for now',
-		name: 'plane waffle',
-		price: '35 dhs',
-	},
-	{
-		src: 'empty for now',
-		name: 'plane waffle',
-		price: '35 dhs',
-	},
-	{
-		src: 'empty for now',
-		name: 'plane waffle',
+		src: './nutella.png',
+		name: 'Nutela Banana',
 		price: '35 dhs',
 	},
 ]

@@ -1,11 +1,11 @@
 import React from 'react';
-
+import './SearchBar.css';
 
 const SearchBar = ({searchChange})=> {
 	return(
 		<div>
 			<input 
-				className="grow"
+				className="grow searchBox"
 				type='search'
 				placeholder='Search Item'
 				onChange= {searchChange}
