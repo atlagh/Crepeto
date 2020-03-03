@@ -18,17 +18,21 @@ class App extends Component{
     }
 }
 
+  onRouteChange = (route) => {
+      this.setState({route: route});
+    }
+
 
 
 
   render() {
     return (
       <div>
-        <NavBar />
+        <NavBar onRouteChange={this.onRouteChange}/>
         { 
           this.state.route === 'base' ?
           <div className="unit">
-            <Browse />
+            <Browse onRouteChange={this.onRouteChange}/>
             <Card />
             <Register />
           </div>
