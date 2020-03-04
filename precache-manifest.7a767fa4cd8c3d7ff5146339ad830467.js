@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f465fefb7ed92b38c1fe5f83207ec1c",
+    "revision": "88c6185669f8a612fdb753e9f6677a91",
     "url": "/Crepeto/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crepeto/static/css/2.777f1ffd.chunk.css"
   },
   {
-    "revision": "9cada6bdbe208c8f582e",
-    "url": "/Crepeto/static/css/main.1835daa5.chunk.css"
+    "revision": "5679f71ca7fe89f7a305",
+    "url": "/Crepeto/static/css/main.c2a0b4d5.chunk.css"
   },
   {
     "revision": "a2834bc5cda0b3798531",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Crepeto/static/js/2.5097fec4.chunk.js.LICENSE"
   },
   {
-    "revision": "9cada6bdbe208c8f582e",
+    "revision": "5679f71ca7fe89f7a305",
     "url": "/Crepeto/static/js/main.3996fd9c.chunk.js"
   },
   {
