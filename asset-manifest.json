@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Crepeto/static/css/main.314ee266.chunk.css",
+    "main.css": "/Crepeto/static/css/main.1835daa5.chunk.css",
     "main.js": "/Crepeto/static/js/main.3996fd9c.chunk.js",
     "main.js.map": "/Crepeto/static/js/main.3996fd9c.chunk.js.map",
     "runtime-main.js": "/Crepeto/static/js/runtime-main.59e9a8c9.js",
@@ -9,10 +9,10 @@
     "static/js/2.5097fec4.chunk.js": "/Crepeto/static/js/2.5097fec4.chunk.js",
     "static/js/2.5097fec4.chunk.js.map": "/Crepeto/static/js/2.5097fec4.chunk.js.map",
     "index.html": "/Crepeto/index.html",
-    "precache-manifest.a14587648dcb21de326d07af8ec35fa3.js": "/Crepeto/precache-manifest.a14587648dcb21de326d07af8ec35fa3.js",
+    "precache-manifest.2d0a8d2bfc3a245912c31068b393e04c.js": "/Crepeto/precache-manifest.2d0a8d2bfc3a245912c31068b393e04c.js",
     "service-worker.js": "/Crepeto/service-worker.js",
     "static/css/2.777f1ffd.chunk.css.map": "/Crepeto/static/css/2.777f1ffd.chunk.css.map",
-    "static/css/main.314ee266.chunk.css.map": "/Crepeto/static/css/main.314ee266.chunk.css.map",
+    "static/css/main.1835daa5.chunk.css.map": "/Crepeto/static/css/main.1835daa5.chunk.css.map",
     "static/js/2.5097fec4.chunk.js.LICENSE": "/Crepeto/static/js/2.5097fec4.chunk.js.LICENSE",
     "static/media/index.css": "/Crepeto/static/media/Background.b72f72e7.jpeg",
     "static/media/MyMenu.jpeg": "/Crepeto/static/media/MyMenu.5eaf0ec5.jpeg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.59e9a8c9.js",
     "static/css/2.777f1ffd.chunk.css",
     "static/js/2.5097fec4.chunk.js",
-    "static/css/main.314ee266.chunk.css",
+    "static/css/main.1835daa5.chunk.css",
     "static/js/main.3996fd9c.chunk.js"
   ]
 }
