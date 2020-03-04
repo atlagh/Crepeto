@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Crepeto/static/css/main.314ee266.chunk.css",
+    "main.js": "/Crepeto/static/js/main.3996fd9c.chunk.js",
+    "main.js.map": "/Crepeto/static/js/main.3996fd9c.chunk.js.map",
+    "runtime-main.js": "/Crepeto/static/js/runtime-main.59e9a8c9.js",
+    "runtime-main.js.map": "/Crepeto/static/js/runtime-main.59e9a8c9.js.map",
+    "static/css/2.777f1ffd.chunk.css": "/Crepeto/static/css/2.777f1ffd.chunk.css",
+    "static/js/2.5097fec4.chunk.js": "/Crepeto/static/js/2.5097fec4.chunk.js",
+    "static/js/2.5097fec4.chunk.js.map": "/Crepeto/static/js/2.5097fec4.chunk.js.map",
+    "index.html": "/Crepeto/index.html",
+    "precache-manifest.a14587648dcb21de326d07af8ec35fa3.js": "/Crepeto/precache-manifest.a14587648dcb21de326d07af8ec35fa3.js",
+    "service-worker.js": "/Crepeto/service-worker.js",
+    "static/css/2.777f1ffd.chunk.css.map": "/Crepeto/static/css/2.777f1ffd.chunk.css.map",
+    "static/css/main.314ee266.chunk.css.map": "/Crepeto/static/css/main.314ee266.chunk.css.map",
+    "static/js/2.5097fec4.chunk.js.LICENSE": "/Crepeto/static/js/2.5097fec4.chunk.js.LICENSE",
+    "static/media/index.css": "/Crepeto/static/media/Background.b72f72e7.jpeg",
+    "static/media/MyMenu.jpeg": "/Crepeto/static/media/MyMenu.5eaf0ec5.jpeg",
+    "static/media/caramelized.png": "/Crepeto/static/media/caramelized.0e82aaab.png",
+    "static/media/chocolat.png": "/Crepeto/static/media/chocolat.213eff94.png",
+    "static/media/cocoa.png": "/Crepeto/static/media/cocoa.bb7577d9.png",
+    "static/media/ice.png": "/Crepeto/static/media/ice.9b901b17.png",
+    "static/media/logo.png": "/Crepeto/static/media/logo.2492338c.png",
+    "static/media/Browse.css": "/Crepeto/static/media/menu.42fd3683.png",
+    "static/media/nutella.png": "/Crepeto/static/media/nutella.20b07bc9.png",
+    "static/media/peanut.png": "/Crepeto/static/media/peanut.997f9288.png",
+    "static/media/plain.png": "/Crepeto/static/media/plain.2a2862a6.png",
+    "static/media/strawberry.png": "/Crepeto/static/media/strawberry.ed43b366.png",
+    "static/media/ultimate.png": "/Crepeto/static/media/ultimate.dd0e8da2.png",
+    "static/media/waffle.jpg": "/Crepeto/static/media/waffle.254691f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59e9a8c9.js",
+    "static/css/2.777f1ffd.chunk.css",
+    "static/js/2.5097fec4.chunk.js",
+    "static/css/main.314ee266.chunk.css",
+    "static/js/main.3996fd9c.chunk.js"
+  ]
+}
