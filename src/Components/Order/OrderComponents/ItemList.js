@@ -1,5 +1,6 @@
 import React from 'react';
 import ItemCard from './ItemCard';
+import './ItemList.css';
 
 
 const ItemList = ({items, clickChange}) => {
@@ -10,7 +11,7 @@ const ItemList = ({items, clickChange}) => {
 	})
 	return(
 
-		<div>
+		<div className="flx">
 			{itemComponent}
 		</div>
 
