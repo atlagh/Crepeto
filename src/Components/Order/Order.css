@@ -22,6 +22,8 @@
 .choice3{
 	min-height: 300px;
 	margin-top: 10px;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .flx{
