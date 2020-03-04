@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88c6185669f8a612fdb753e9f6677a91",
+    "revision": "c27ab0e54d075aea292c00b4e47a896e",
     "url": "/Crepeto/index.html"
   },
   {
-    "revision": "a2834bc5cda0b3798531",
+    "revision": "a98145effddc864b019b",
     "url": "/Crepeto/static/css/2.777f1ffd.chunk.css"
   },
   {
-    "revision": "5679f71ca7fe89f7a305",
-    "url": "/Crepeto/static/css/main.c2a0b4d5.chunk.css"
+    "revision": "cbf9f24dc3f4d427715c",
+    "url": "/Crepeto/static/css/main.0d4c4d24.chunk.css"
   },
   {
-    "revision": "a2834bc5cda0b3798531",
-    "url": "/Crepeto/static/js/2.5097fec4.chunk.js"
+    "revision": "a98145effddc864b019b",
+    "url": "/Crepeto/static/js/2.e4e466e6.chunk.js"
   },
   {
     "revision": "81c1ab2ba64ac9f85d481dd74a981dc6",
-    "url": "/Crepeto/static/js/2.5097fec4.chunk.js.LICENSE"
+    "url": "/Crepeto/static/js/2.e4e466e6.chunk.js.LICENSE"
   },
   {
-    "revision": "5679f71ca7fe89f7a305",
-    "url": "/Crepeto/static/js/main.3996fd9c.chunk.js"
+    "revision": "cbf9f24dc3f4d427715c",
+    "url": "/Crepeto/static/js/main.6c34d547.chunk.js"
   },
   {
     "revision": "5f536acc3a7b756d2796",
